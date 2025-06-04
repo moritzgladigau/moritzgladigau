@@ -18,6 +18,7 @@
 ### My Projects:
 1. 💣 [Minesweeper](https://github.com/moritzgladigau/Minesweeper.git) - A small Terminal Game coded in C
 2. 🕸️ [Ollama Web Ui](https://github.com/moritzgladigau/simpel-ollama-ui) - A very minimalistic Web Ui for Localhoast Ollama Models
+3. 🕸️ [Team_Conquistadora_Asso99](https://github.com/moritzgladigau/team_conquistadora.git) - A blog website for my Sailing Crew.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
